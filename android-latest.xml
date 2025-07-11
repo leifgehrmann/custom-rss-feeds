@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Android Developers - Latest</title>
+<link href="https://android-developers.googleblog.com/search/label/latest/"/>
+<updated>2025-07-11T06:08:20.269Z</updated>
+<id>https://android-developers.googleblog.com/search/label/latest</id>
+
+            <entry>
+                <title>Evolving Android’s early-access programs: Introducing the Canary channel</title>
+                <link href="https://android-developers.googleblog.com/2025/07/android-canary.html"/>
+                <updated>2025-07-10T00:00:00.000Z</updated>
+                <author><name>Android Developers</name></author>
+                <id>https://android-developers.googleblog.com/2025/07/android-canary.html</id>
+            </entry>
+        
+            <entry>
+                <title>Android 16 is here</title>
+                <link href="https://android-developers.googleblog.com/2025/06/android-16-is-here.html"/>
+                <updated>2025-06-10T00:00:00.000Z</updated>
+                <author><name>Android Developers</name></author>
+                <id>https://android-developers.googleblog.com/2025/06/android-16-is-here.html</id>
+            </entry>
+        
+            <entry>
+                <title>The Fourth Beta of Android 16</title>
+                <link href="https://android-developers.googleblog.com/2025/04/the-fourth-beta-of-android-16.html"/>
+                <updated>2025-04-17T00:00:00.000Z</updated>
+                <author><name>Android Developers</name></author>
+                <id>https://android-developers.googleblog.com/2025/04/the-fourth-beta-of-android-16.html</id>
+            </entry>
+        
+            <entry>
+                <title>The Third Beta of Android 16</title>
+                <link href="https://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html"/>
+                <updated>2025-03-13T00:00:00.000Z</updated>
+                <author><name>Android Developers</name></author>
+                <id>https://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html</id>
+            </entry>
+        
+            <entry>
+                <title>The Second Beta of Android 16</title>
+                <link href="https://android-developers.googleblog.com/2025/02/second-beta-android16.html"/>
+                <updated>2025-02-13T00:00:00.000Z</updated>
+                <author><name>Android Developers</name></author>
+                <id>https://android-developers.googleblog.com/2025/02/second-beta-android16.html</id>
+            </entry>
+        
+</feed>
